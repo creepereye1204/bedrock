@@ -7,4 +7,5 @@
 
 
 
+![Static Badge](https://img.shields.io/badge/Black-2088FF?style=flat&logo=Black&logoColor=white&labelColor=%236DB33F&color=%236DB33F)
 
